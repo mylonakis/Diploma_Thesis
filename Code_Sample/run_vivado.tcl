@@ -1,7 +1,7 @@
 # Author: Mylonakis Emmanouil.
 # Description: Integrated TCL commands of the Vivado. 
 #              compile{}-> Synthesize, Implmentation and Bitstream Generation.
-#			   program_device{} -> Loads bit file into the FPGA.
+#	       program_device{} -> Loads bit file into the FPGA.
 
 # ====================== Procedures ====================== #
 
