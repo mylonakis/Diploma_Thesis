@@ -1,8 +1,8 @@
 """
 Engineer: Mylonakis Manolis
 Description: Generates grid-like entries to configure the CA neighborhood
-			 alongside the respective widgets. Run Simulation and Apply Configurations
-			 buttons are also included.
+	     alongside the respective widgets. Run Simulation and Apply Configurations
+	     buttons are also included.
 """
 
 # ============================== IMPORTS ============================== #
